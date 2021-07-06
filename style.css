@@ -49,3 +49,8 @@ img{
 .food{
   padding-left: 30px;
 }
+footer{
+    background: magenta;
+    text-align: center;
+    font-size: 20px;
+}
